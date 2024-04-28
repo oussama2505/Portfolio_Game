@@ -2,7 +2,7 @@
 
 ¡Inspírate en los creativos portafolios de desarrolladores en 3D y crea uno en 2D! Este proyecto es un ejemplo que puedes usar como plantilla para construir el tuyo propio. Funciona tanto en escritorio como en dispositivos móviles.
 
-![Captura de pantalla del proyecto](captura_juego.png)
+![Captura de pantalla del proyecto](my_portfolio/public/captura_juego.png)
 
 **Demo en Vivo:** [Ver Demo](https://github.com/oussama2505/Portfolio_Game)
 
