@@ -12,7 +12,7 @@ export const dialogueData = {
   resume: ` Este es mi escritorio y sobre él está mi currículum. <a href="https://github.com/oussama2505/CV/blob/main/Oussama_brahmi_1.pdf" target="_blank">¿Echar un vistazo? </a>
   Contáctame en oussama.brahmi0608@gmail.com si tienes alguna oportunidad de trabajo interesante.
 `,
-  projects: `Información sobre este portafolio: Está hecho con la biblioteca Kaboom.js, que es una biblioteca para hacer juegos en JavaScript. El texto se renderiza con HTML/CSS. Entonces, el cuadro de texto que estás leyendo actualmente no se renderiza dentro del canvas. Aprende más sobre cómo usar Kaboom.js viendo algunos de estos tutoriales aquí. <a href="https://youtube.com/@jslegenddev" target="_blank">Aquí</a>.`,
+  projects: `Aquí guardo copias de mis proyectos personales:<a href="https://github.com/debora-smb/marketplace" target="_blank">Marketplace</a>(SCSS/JS/PHP),<a href="https://github.com/A-Goffard/Marifarma" target="_blank">Tienda online</a>(HTML/CSS/Vanila JS), <a href="https://github.com/oussama2505/MusicPlayer_JS_WebAudioAPI" target="_blank">Music Player</a> (JS/WebAudio Api) y <a href="https://github.com/EliasXVIII/vueSport" target="_blank">App de senderismo</a> (Vue JS/Tailwind css/GoogleMaps Api).`,
   library: `Hay muchos libros de programación en mis estantes. Incluso hay uno en francés (también hablo francés, por cierto). Probablemente solo leí uno de ellos. ¿Quién más compra compulsivamente libros técnicos sin terminarlos nunca?`,
   exit: `Si quieres salir del portafolio de Oussama, simplemente cierra la pestaña.`,
 };
