@@ -320,17 +320,6 @@
                  "width":11.75,
                  "x":274.125,
                  "y":80.125
-                }, 
-                {
-                 "height":9.90625,
-                 "id":35,
-                 "name":"projects",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":13.25,
-                 "x":240.34375,
-                 "y":80.25
                 }],
          "opacity":1,
          "type":"objectgroup",
